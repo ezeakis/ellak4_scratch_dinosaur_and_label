@@ -14,3 +14,6 @@
 
 https://scratch.mit.edu/projects/666796848/
 
+Ενώ είναι διαθέσιμο και ως αρχείο εδώ
+
+https://github.com/ezeakis/ellak4_scratch_dinosaur_and_label/blob/main/%CE%9F%20%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%83%CE%B1%CF%85%CF%81%CE%BF%CF%82%20%CE%BA%CE%B1%CE%B9%20%CF%84%CE%BF%20%CF%84%CE%B1%CE%BC%CF%80%CE%B5%CE%BB%CE%AC%CE%BA%CE%B9.sb3
